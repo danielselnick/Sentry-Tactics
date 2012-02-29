@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RakNet", "RakNet\RakNet.vcproj", "{13230867-27ED-4F32-8432-52B55B77A7E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBT", "TBT_N\TBT.vcproj", "{CA87491D-F0D2-480B-9943-F7D97C4845DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13230867-27ED-4F32-8432-52B55B77A7E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13230867-27ED-4F32-8432-52B55B77A7E6}.Release|Win32.ActiveCfg = Release|Win32
+		{CA87491D-F0D2-480B-9943-F7D97C4845DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA87491D-F0D2-480B-9943-F7D97C4845DE}.Debug|Win32.Build.0 = Debug|Win32
+		{CA87491D-F0D2-480B-9943-F7D97C4845DE}.Release|Win32.ActiveCfg = Release|Win32
+		{CA87491D-F0D2-480B-9943-F7D97C4845DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
